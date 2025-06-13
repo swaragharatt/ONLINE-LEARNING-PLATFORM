@@ -24,3 +24,10 @@
 ## Usage
 Open the `index.html` file in any modern web browser to explore the site. Users can watch lessons, take quizzes, check their progress, and access login/register forms all within the same page.
 
+#Author 
+swaragharatt
+
+#Output 
+![Screenshot 2025-06-06 165108](https://github.com/user-attachments/assets/6ff01544-1a6e-4d90-aa04-e68c8f0fe862)
+
+
